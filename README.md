@@ -5,7 +5,7 @@ The amp is housed in a cedar cabinet with a 12-inch alnico speaker.
 
 ### History
 
-The "Champ" was a small electric instrument amplifier manufactured by Fender Musical Instruments Coproration from 1948 until 1982.\
+The "Champ" was a small electric instrument amplifier manufactured by Fender Musical Instruments Coproration from 1948 until 1982.
 The 5f1 circuit was made from 1956 - 1964.
 
 # Technical Specifications
