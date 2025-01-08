@@ -20,18 +20,25 @@ The "Champ" was a small guitar amplifier manufactured by Fender Musical Instrume
 
 ### Images
 
-![circuit schematic](https://github.com/apacific/5F1-Champ-Amp-Combo/blob/main/media/images/a.JPG?raw=true)
+![cabinet interior](https://github.com/apacific/5F1-Champ-Amp-Combo/blob/main/media/images/a.JPG?raw=true)
+cabinet interior
 
-![circuit schematic](https://github.com/apacific/5F1-Champ-Amp-Combo/blob/main/media/images/b.JPG?raw=true)
+![valves and transformers](https://github.com/apacific/5F1-Champ-Amp-Combo/blob/main/media/images/b.JPG?raw=true)
+valves: 12AX7A, 6V6GT, 5Y3
 
-![circuit schematic](https://github.com/apacific/5F1-Champ-Amp-Combo/blob/main/media/images/c.JPG?raw=true)
+![power transformer](https://github.com/apacific/5F1-Champ-Amp-Combo/blob/main/media/images/c.JPG?raw=true)
+Had to chisel out a bit of the baffle cleat to make room for the power transformer. RIP Classictone.
 
-![circuit schematic](https://github.com/apacific/5F1-Champ-Amp-Combo/blob/main/media/images/d.JPG?raw=true)
+![wallpaper covering](https://github.com/apacific/5F1-Champ-Amp-Combo/blob/main/media/images/d.JPG?raw=true)
+Cabinet is covered in wallpaper and Mod Podge, and finished in clear coat enamel.
 
-![circuit schematic](https://github.com/apacific/5F1-Champ-Amp-Combo/blob/main/media/images/e.JPG?raw=true)
+![speaker with cable](https://github.com/apacific/5F1-Champ-Amp-Combo/blob/main/media/images/e.JPG?raw=true)
+salvaged alnico speaker
 
-![circuit schematic](https://github.com/apacific/5F1-Champ-Amp-Combo/blob/main/media/images/f.JPG?raw=true)
+![grillcloth](https://github.com/apacific/5F1-Champ-Amp-Combo/blob/main/media/images/f.JPG?raw=true)
+grillcloth
 
 ![circuit schematic](https://github.com/apacific/5F1-Champ-Amp-Combo/blob/main/media/images/g.JPG?raw=true)
+pilot lamp, 2A fuse, on/volume, input, bright switch
 
 ### Videos
